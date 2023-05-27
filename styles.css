@@ -1,0 +1,32 @@
+<style>
+body {
+    background-color: #f5f5dc;
+    color: #333;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    color: #ff6347;
+}
+
+.prompt {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.qr-code {
+    width: 200px;
+    margin-top: 10px;
+}
+</style>
