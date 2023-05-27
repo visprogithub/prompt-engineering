@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>All Staff Convention</title>
+        <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <a class="navbar-brand" href="#">All Staff Convention</a>
+        </nav>
+        <div class="container">
+            <h1>Welcome to the All Staff Convention!</h1>
+            <p>Explore the power of AI and learn how to write better prompts.</p>
+            <div class="container mt-4">
+    <div class="row">
+        <!-- Prompt 1: Programming -->
+        <div class="col-lg-4 col-md-6 mb-4">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Programming</h5>
+                    <p class="card-text">How to merge dictionaries in Python?</p>
+                </div>
+            </div>
+        </div>
+        <!-- Prompt 2: Web Development -->
+        <div class="col-lg-4 col-md-6 mb-4">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Web Development</h5>
+                    <p class="card-text">I want to build a job board website. Can you generate some HTML for my website?</p>
+                </div>
+            </div>
+        </div>
+        <!-- Prompt 3: Automation -->
+        <div class="col-lg-4 col-md-6 mb-4">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Automation</h5>
+                    <p class="card-text">Send the message "type message" on Whatsapp using Python and pywhatkit.</p>
+                </div>
+            </div>
+        </div>
+        <!-- Prompt 4: Data Science Questions -->
+        <div class="col-lg-4 col-md-6 mb-4">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Data Science Questions</h5>
+                    <p class="card-text">Where can I find data for my credit card fraud detection project?</p>
+                </div>
+            </div>
+        </div>
+        <!-- Repeat this structure for each prompt -->
+    </div>
+</div>
+
+        </div>
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    </body>
+</html>
