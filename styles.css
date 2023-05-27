@@ -1,3 +1,6 @@
+:host { 
+  display: contents; 
+}
 .home-container {
   width: 100%;
   height: auto;
@@ -1084,16 +1087,16 @@
   color: var(--dl-color-gray-700);
   text-align: left;
 }
-.home-text444 {
+.home-text450 {
   color: var(--dl-color-gray-700);
 }
-.home-text449 {
+.home-text465 {
   color: var(--dl-color-gray-700);
 }
-.home-text463 {
+.home-text474 {
   color: var(--dl-color-gray-700);
 }
-.home-text477 {
+.home-text481 {
   color: var(--dl-color-gray-700);
 }
 @media(max-width: 991px) {
