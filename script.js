@@ -108,7 +108,7 @@
         const mobileMenuElement = burgerMenuElement.nextElementSibling?.classList.contains("teleport-menu-mobile")
           ? burgerMenuElement
         window.addEventListener("DOMContentLoaded", function() {
-            var headings = document.querySelectorAll(".home-heading01, .home-heading02, .home-heading03");
+            var headings = document.querySelectorAll(".home-heading");
             headings.forEach(function(heading) {
                 heading.addEventListener("click", function() {
                     var text = this.nextElementSibling;
@@ -122,7 +122,7 @@
             
             if (window.innerWidth < 600) {
                 window.addEventListener("scroll", function() {
-                    var headings = document.querySelectorAll(".home-heading01, .home-heading02, .home-heading03");
+                    var headings = document.querySelectorAll(".home-heading");
                     headings.forEach(function(heading) {
                         var text = heading.nextElementSibling;
                         var rect = heading.getBoundingClientRect();
